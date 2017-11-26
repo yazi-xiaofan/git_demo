@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hello git
 
 hello branch2
+=======
+
+
+hello branch
+hello branch2
+>>>>>>> test
